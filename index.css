@@ -1,0 +1,18 @@
+
+
+h1 {
+    font-family: 'Xanh Mono', monospace;
+    
+    font-size: 30pt;
+}
+
+p {
+    font-size: 15pt;
+
+}
+
+a {
+    font-family: 'Xanh Mono', monospace;
+    font-style: italic;
+    font-size: 15pt;
+}
